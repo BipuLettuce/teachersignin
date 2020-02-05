@@ -1,0 +1,125 @@
+.button {
+    background-color:rgb(100, 114, 192);
+    padding-top:12px;
+    padding-bottom:12px;
+    margin:0px;
+    
+    padding-left:16px;
+    padding-right:16px;
+    border-radius:4px;
+    display:inline-block;
+    font-weight:bold;
+    color:white;
+}
+
+.button p {
+    margin:0px;
+}
+
+input {
+    background-color:white;
+    padding-top:13px;
+    padding-bottom:8px;
+    margin:0px;
+    margin-top:2px;
+    padding-left:16px;
+    padding-right:16px;
+    border-radius:4px;
+    display:inline-block;
+    font-weight:bold;
+    color:rgb(100, 114, 192);
+    border-width:3px;;
+    border-color:rgb(100, 114, 192);
+    border-style: solid;
+    
+}
+
+body{
+    background-color:rgb(54, 54, 138);
+    font-family: 'Roboto', sans-serif;
+    padding:0px;
+    margin:0px;
+}
+
+.background{
+
+    margin: 0 auto;
+    width:80%;
+    background:white;
+    padding:20px;
+    padding-bottom:200px;
+    border-radius:6px;
+    
+}
+
+h1 {
+    font-family: 'Roboto Slab', serif;
+    margin-top:0px;
+    color:white;
+    margin: 0 auto;
+    width:80%;
+    padding-bottom:20px;
+    padding-top:10px;
+}
+
+h2{
+    font-family: 'Roboto Slab', serif;
+    color:rgb(54, 54, 138);
+    margin-top:0px;
+}
+
+h3 {
+    font-family: 'Roboto Slab', serif;
+    color:rgb(54, 54, 138);
+    
+}
+
+.daterange p {
+    display:inline;
+    margin-left:10px;
+    margin-right:10px;
+}
+
+.daterange .button{
+    margin-left:20px;
+}
+
+.block {
+    background:rgb(224, 229, 255);
+    border-radius:5px;
+    padding:10px;
+    
+}
+.block-light {
+    background:rgb(241, 243, 255);
+    border-radius:5px;
+    padding:10px;
+    
+}
+
+.topbar {
+    margin: 0px;
+    padding:10px;
+    background:rgb(100, 114, 192);
+    margin-bottom:6px;
+}
+.topbar p{
+    display:inline;
+    padding:10px;
+    color:white;
+}
+
+tr td
+{
+    background-color:rgb(224, 229, 255);
+}
+
+table {
+    border:none;
+}
+
+tr:nth-child(even) td:nth-child(odd), 
+tr:nth-child(even) td:nth-child(even)
+{
+    background-color:rgb(241, 243, 255);
+}
