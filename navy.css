@@ -1,0 +1,198 @@
+.button {
+    background-color:#9c2222;
+    padding-top:12px;
+    padding-bottom:12px;
+    margin:0px;
+    
+    padding-left:16px;
+    padding-right:16px;
+    border-radius:4px;
+    display:inline-block;
+    font-weight:bold;
+    color:white;
+}
+
+.button p {
+    margin:0px;
+}
+
+input {
+    background-color:white;
+    padding-top:13px;
+    padding-bottom:8px;
+    margin:0px;
+    margin-top:2px;
+    padding-left:16px;
+    padding-right:16px;
+    border-radius:4px;
+    display:inline-block;
+    font-weight:bold;
+    color:#9c2222;
+    border-width:3px;;
+    border-color:#9c2222;
+    border-style: solid;
+    
+}
+
+.textbox {
+    padding:12px;
+    margin-bottom:10px;
+    width:300px;
+}
+.loginblock h3{
+    margin:0px;
+    padding:0px;
+}
+body{
+    background-color:#1a1a26;
+    font-family: 'Roboto', sans-serif;
+    padding:0px;
+    margin:0px;
+}
+
+.largebutton{
+    background-color:#9c2222;
+    padding-top:12px;
+    padding-bottom:12px;
+    margin:0px;
+    
+    padding-left:16px;
+    padding-right:16px;
+    border-radius:4px;
+    display:inline-block;
+    
+    color:white;
+    width:100%;
+    height:200px;
+    margin:10px;
+    font-size:28px;
+    text-align:center;
+}
+.largebutton i {
+    font-size:128px;;
+}
+.largebutton p{
+    margin:0px;
+    padding:0px;
+}
+.flex-container {
+    display: flex;
+    align-items: stretch;
+    
+  }
+
+.background{
+
+    margin: 0 auto;
+    width:80%;
+    background:white;
+    padding:20px;
+    padding-bottom:20px;
+    border-radius:6px;
+    
+}
+
+h1 {
+    font-family: 'Roboto Slab', serif;
+    margin-top:0px;
+    color:white;
+    margin: 0 auto;
+    width:80%;
+    padding-bottom:20px;
+    padding-top:10px;
+}
+
+h2{
+    font-family: 'Roboto Slab', serif;
+    color:#1a1a26;
+    margin-top:0px;
+}
+
+h3 {
+    font-family: 'Roboto Slab', serif;
+    color:#1a1a26;
+    
+}
+
+.daterange p {
+    display:inline;
+    margin-left:10px;
+    margin-right:10px;
+}
+
+.daterange .button{
+    margin-left:20px;
+}
+
+.block {
+    background:rgb(229, 229, 229);
+    border-radius:5px;
+    padding:10px;
+    
+}
+.block-light {
+    background:rgb(243, 243, 243);
+    border-radius:5px;
+    padding:10px;
+    
+}
+
+.topbar {
+    margin: 0px;
+    padding:10px;
+    background:#9c2222;
+    margin-bottom:6px;
+}
+.topbar p{
+    display:inline;
+    padding:10px;
+    color:white;
+}
+
+.topbar p:hover{
+    background-color:white;
+    color:#9c2222;
+}
+
+
+tr td
+{
+    background-color:rgb(229, 229, 229);
+}
+
+table {
+    border:none;
+}
+
+tr:nth-child(even) td:nth-child(odd), 
+tr:nth-child(even) td:nth-child(even)
+{
+    background-color:rgb(243, 243, 243);
+}
+
+a {
+    text-decoration:none;
+}
+.checkmark i{
+    font-size:128px;
+    color:green;
+    
+}
+.checkmark {
+    margin: 0 auto;
+    width:128px;
+}
+
+.signinpage{
+    
+    text-align:center;
+
+}
+.signinpage h1{
+    font-size:38px;;
+    color:#1a1a26;
+}
+.signinpage p{
+
+    text-align:center;
+}
