@@ -172,3 +172,26 @@ tr:nth-child(even) td:nth-child(even)
 a {
     text-decoration:none;
 }
+.checkmark i{
+    font-size:128px;
+    color:green;
+    
+}
+.checkmark {
+    margin: 0 auto;
+    width:128px;
+}
+
+.signinpage{
+    
+    text-align:center;
+
+}
+.signinpage h1{
+    font-size:38px;;
+    color:rgb(54, 54, 138);
+}
+.signinpage p{
+
+    text-align:center;
+}
