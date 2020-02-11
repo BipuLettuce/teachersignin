@@ -196,3 +196,18 @@ a {
 
     text-align:center;
 }
+
+.largeicon i{
+    font-size:128px;
+    text-align:center;
+    margin:20px;
+}
+
+.largeicon {
+    text-align:center;
+    color:#1a1a26;
+}
+
+.signincard {
+    text-align:center;
+}
